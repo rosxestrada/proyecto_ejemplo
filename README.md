@@ -1,4 +1,4 @@
-# proyecto tiempo al trabajo
+# proyecto tiempo al trabajo entre contornos
 ## Estructura de carpetas
 ### **DATOS/CENSO_CDMX2020**
 Primero se debe descomprimir el ZIP que contiene la base de datos.
